@@ -56,11 +56,10 @@ Note: Students taking this course are also expected to be taking CS2501 to meet 
 | Week 10 | Spring Break! |
 | Week 11 | *Monday 3/21/22:* [DB Internals Slides](slides/22-11a-dbms-internals.pdf) - [Video](https://blackboard.gwu.edu/webapps/blackboard/content/launchLink.jsp?course_id=_363507_1&tool_id=_5071_1&tool_type=TOOL&mode=cpview&mode=reset) <br>*Wednesday 3/23/22:* Lab: Sqlite to MySQL - [Video](https://blackboard.gwu.edu/webapps/blackboard/content/launchLink.jsp?course_id=_363507_1&tool_id=_5071_1&tool_type=TOOL&mode=cpview&mode=reset)<br> - Mentor Meeting |
 | Week 12 | *Monday 3/28/22:* [RDBMS Challenges Slides](slides/22-12-rdbms-challenges.pdf) - [Video](https://blackboard.gwu.edu/webapps/blackboard/content/launchLink.jsp?course_id=_363507_1&tool_id=_5071_1&tool_type=TOOL&mode=cpview&mode=reset) <br>*Wednesday 3/30/22:* Lab - [Video](https://blackboard.gwu.edu/webapps/blackboard/content/launchLink.jsp?course_id=_363507_1&tool_id=_5071_1&tool_type=TOOL&mode=cpview&mode=reset)<br> - Mentor Meeting |
-| Week 13 | *Monday 4/4/22:* [NoSQL Slides](slides/22-12-rdbms-challenges.pdf) - [Video](https://blackboard.gwu.edu/webapps/blackboard/content/launchLink.jsp?course_id=_363507_1&tool_id=_5071_1&tool_type=TOOL&mode=cpview&mode=reset) <br>*Wednesday 4/6/22:* Phase 1<br> - due in class |
+| Week 13 | *Monday 4/4/22:* [NoSQL Slides](slides/22-12-rdbms-challenges.pdf) - [Video](https://blackboard.gwu.edu/webapps/blackboard/content/launchLink.jsp?course_id=_363507_1&tool_id=_5071_1&tool_type=TOOL&mode=cpview&mode=reset) <br>*Wednesday 4/6/22:* Phase 1 Demos<br> - due in class |
 | Week 14 | *Monday 4/11/22:* Guest Lecture - Michael Trotter on Data Streaming <br>*Wednesday 4/13/22:* Start Phase 2<br> - Mentor Meeting |
-| Week 15 | *Monday 4/18/22:* Relational Algebra <br>*Wednesday 4/20/22:* Lab<br> - Mentor Meeting |
-| Week 16 | *Monday 4/25/22:* Indexes / Optimization <br>*Wednesday 4/27/22:* Mentor Meeting<br> - (Designated Monday) |
-|Finals Week | Phase 2 Due! | 
+| Week 15 | *Monday 4/18/22:* [Indexes / Optimization Slides](slides/22-15-indexes.pdf) <br>*Wednesday 4/20/22:* [Security Lecture and Lab Slides](slides/22-15-security.pdf)<br> - Mentor Meeting |
+| Week 16 | *Monday 4/25/22:* [The End Slides](slides/22-16-the-end.pdf) <br>*Wednesday 4/27/22:* Mentor Meeting<br> - (Designated Monday) |
 
 </div>
 
