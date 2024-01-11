@@ -4,9 +4,9 @@ title: "HW2: Student Roster"
 permalink: /hw2/
 ---
 
-## Instructions  
+## Instructions
 
-Techniques: Python, Flask, Templates, HTML, CSS 
+Techniques: Python, Flask, Templates, HTML, CSS
 
 <blockquote>
 For this assignment you must build a student roster application that shows a list of students and gives details about each one. It is similar to Lab 2, but adds some extra features and changes how you get the data.
@@ -14,8 +14,6 @@ For this assignment you must build a student roster application that shows a lis
 **This is an INDIVIDUAL assignment.** You may reuse some of the code from your Lab 2, but you may not work with those students (or any others) to complete the assignment.
 
 **Project URL:** [https://replit.com/team/cs2541s22/HW2-Student-Roster](https://replit.com/team/cs2541s22/HW2-Student-Roster)
-
-**Deadline:** Friday January 28th 11:59PM. Remember to hit *Submit!*
 
 **Hint:** The [Lab 2 slides and Instructor Playground Replit](/lab2) have a lot of useful information on using Flask templates! You should be using template syntax for `if` statements, `for` loops, and access to dictionary values!
 </blockquote>
@@ -69,10 +67,9 @@ s = studentsDB.get_student("G5545")
 print(s["engagement"])
 ```
 
-You may only interact with the StudentsDB class by using the two functions defined above. We encourage you to look at the `studentDB.py` file to see how this is implemented, but **you may not modify that file.** 
+You may only interact with the StudentsDB class by using the two functions defined above. We encourage you to look at the `studentDB.py` file to see how this is implemented, but **you may not modify that file.**
 
 ## Example
 Here is an example of what your site might look like when done:
 
   ![Sample site](example_gif.gif)
-

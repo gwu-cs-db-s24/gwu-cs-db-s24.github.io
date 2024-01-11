@@ -5,7 +5,7 @@ permalink: /hw1/
 ---
 
 <blockquote>
-This activity will guide you through learning the basics of Python. **There is a lot to read here; that is purposeful! Our goal is to quickly get you familiar with python syntax AND to think critically about the language.** If you only learn enough to google code snippets for every line of code you need to write, that will not be enough.  
+This activity will guide you through learning the basics of Python. **There is a lot to read here; that is purposeful! Our goal is to quickly get you familiar with python syntax AND to think critically about the language.** If you only learn enough to google code snippets for every line of code you need to write, that will not be enough.
 
 To receive full credit for this homework exercise you must:
 
@@ -14,7 +14,6 @@ To receive full credit for this homework exercise you must:
   - Solve a Replit programming exercise that covers basic python syntax and data structures.
   - Complete a form which asks you about your experience learning python.
 
-*Deadline:* Tuesday 1/18 at 11:59PM
 </blockquote>
 
 ### Table of Contents:
@@ -25,6 +24,14 @@ To receive full credit for this homework exercise you must:
   - [Optional Engagement Activity](#optional-engagement-activity-rock-papers-scissors): a chance to earn an engagement point by building a stupid game
 
 ---
+
+## Installing Python
+
+In this class, we'll use using [Flask](https://flask.palletsprojects.com/en/2.3.x/), which [can be installed](https://flask.palletsprojects.com/en/2.3.x/installation/) (now or later) using:
+
+```
+$ pip install Flask
+```
 
 ## Python: Features and Pitfalls
 From [Python.org's Executive Summary](https://www.python.org/doc/essays/blurb/):
@@ -77,7 +84,7 @@ p1 = Customer("Tim", 36)
 print(p1.name + " is not " + str(p1.age))
 ```
 
-> 4\. Python supports **modules and packages**. Python has a wide range of built-in libraries, plus many more available which you can use. This will be important as we go further into the class because we will make use of popular libraries like the Flask web framework and packages for interacting with MySQL. 
+> 4\. Python supports **modules and packages**. Python has a wide range of built-in libraries, plus many more available which you can use. This will be important as we go further into the class because we will make use of popular libraries like the Flask web framework and packages for interacting with MySQL.
 
 There are two common pitfalls when using libraries in Python. First, installing and managing library versions can be messy. This is exacerbated when you have multiple versions of Python on your computer (fairly common as noted below). The common solution to this is using Python Virtual Environments, which are covered later in this class.
 
@@ -108,24 +115,24 @@ Another unfortunate challenge caused by this change is that many computers will 
 ```bash
 $ python       # run the python command in my terminal
 
-WARNING: Python 2.7 is not recommended. 
-This version is included in macOS for compatibility with legacy software. 
-Future versions of macOS will not include Python 2.7. 
+WARNING: Python 2.7 is not recommended.
+This version is included in macOS for compatibility with legacy software.
+Future versions of macOS will not include Python 2.7.
 Instead, it is recommended that you transition to using 'python3' from within Terminal.
 
-Python 2.7.16 (default, Jun  5 2020, 22:59:21) 
+Python 2.7.16 (default, Jun  5 2020, 22:59:21)
 [GCC 4.2.1 Compatible Apple LLVM 11.0.3 (clang-1103.0.29.20) (-macos10.15-objc- on darwin
 Type "help", "copyright", "credits" or "license" for more information.
->>> 
+>>>
 ```
 
 If you have multiple versions installed, you may need to run a command like `python3` or `python2` to specify which version you want:
 ```bash
 $ python3        # try a different version
-Python 3.7.7 (default, Mar 10 2020, 15:43:03) 
+Python 3.7.7 (default, Mar 10 2020, 15:43:03)
 [Clang 11.0.0 (clang-1100.0.33.17)] on darwin
 Type "help", "copyright", "credits" or "license" for more information.
->>> 
+>>>
 ```
 
 **In this class you should be using Python 3!**
@@ -139,15 +146,15 @@ Properly indenting your code is always good practice, and Python forces you to d
 ## Learning Python Basics
 There are many ways to learn Python. Here are two approaches. If you find other good resources, post on Slack in #python.
 
-### Track 1: For Visual Learners 
-I have gathered a [set of short python tutorial videos](/hw1/videos/). Each video is ~5 minutes long, and they will take you through the basics of python syntax, control structures, and data structures. 
+### Track 1: For Visual Learners
+I have gathered a [set of short python tutorial videos](/hw1/videos/). Each video is ~5 minutes long, and they will take you through the basics of python syntax, control structures, and data structures.
 
 Sit back and watch, but keep in mind that it is very difficult for your brain to retain information unless you are active in your learning. I strongly suggest trying out some of the commands as you watch [in this practice Replit](https://replit.com/team/cs2541s22/HW1-Practice-Area). You should also supplement this with looking at the Full Speed Python document below!
 
 There are many other python tutorials and videos throughout the internet, but these are by far the best I have found in terms of quality of content and conciseness. If you find better ones, let me know.
 
 
-### Track 2: For Text Learners 
+### Track 2: For Text Learners
 The Full Speed Python is a [free and short e-book](https://github.com/joaoventura/full-speed-python/releases/download/v0.4.3/full-speed-python.pdf) that covers enough python syntax to finish the first assignment. Read Chapters 3-8 (only about 15 pages, most of it code samples). I would recommend supplementing this with some of the videos linked to above.
 
 For a really quick, somewhat poorly organized overview of Python and its differences from Java, print out this [Cheat Sheet](https://github.com/akashp1712/python-cheat-sheets/blob/master/Python_for_Java_developers_cheat_sheet.pdf).
@@ -157,11 +164,11 @@ For Google's thorough introduction to Python (minimal programming experience req
 ---
 
 ## Assignment: Python Syntax and Data Structures
-> This assignment must be solved **on your own** and will be submitted through Replit. 
+> This assignment must be solved **on your own** and will be submitted through Replit.
 >   - Replit Project link: [https://replit.com/team/cs2541s22/HW1-Python-Practice](https://replit.com/team/cs2541s22/HW1-Python-Practice)
 >   - Due: Tuesday January 18, 11:59PM
 
-Complete this set of simple Python exercises on Replit to ensure you are familiar with Python syntax. 
+Complete this set of simple Python exercises on Replit to ensure you are familiar with Python syntax.
 
 Instructions:
 
@@ -172,7 +179,7 @@ Instructions:
 
 When you are finished with all the functions, click the Submit button. You can modify and submit again if necessary, but if you attempt to submit after the deadline your work will be considered late.
 
---- 
+---
 
 ## Assignment: Python Questions
 
@@ -206,7 +213,7 @@ rock
 Player 2's move?
 scissors
 Player 1's rock beats Player 2's scissors
-``` 
+```
 
 In the case of a tie, the final line should read:
 ```
@@ -218,4 +225,3 @@ Player 1 and Player 2 both played <MOVE>
  - Add command line argument processing for your program. With no arguments it should function as above, but when run with a `-AI` flag, it should enable AI mode for the second player. With a `-AIAUTO` flag it should enable AI for both players and not accept any user input.
  - An AI player should randomly select which move to make.
  - When running in AI mode, the *last line* of your program's output should be modified so it says "AI Player", for example `AI Player 1's rock beats AI Player 2's scissors` if running in `AIAUTO` mode.
-
