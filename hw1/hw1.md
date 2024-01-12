@@ -26,8 +26,7 @@ To receive full credit for this homework exercise you must:
 
 ## Installing Python
 
-You can check if your system already has Python installed by typing `python3` on the command line.
-If you see
+You can check if your system already has Python installed by typing `python3` on the command line. If you see
 
 ```
 Python 3.10.12 (main, Nov 20 2023, 15:14:05) [GCC 11.4.0] on linux
@@ -35,17 +34,13 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>>
 ```
 
-Then it is installed!
-You can exit the prompt by typing `quit()` or Control-D.
+Then it is installed! You can exit the prompt by typing `quit()` or Control-D.
 
-If it is *not* installed, you can install it (and integrate it with VSCode) using [these instructions](https://code.visualstudio.com/docs/python/python-tutorial).
-If you're using Ubuntu, I suggest installing using `sudo apt update; apt-get install python3`.
+If it is *not* installed, you can install it (and integrate it with VSCode) using [these instructions](https://code.visualstudio.com/docs/python/python-tutorial). If you're using Ubuntu, I suggest installing using `sudo apt update; apt-get install python3`.
 
-If you run into any problems installing Python, you can use the provided server in the short term.
-However, come the second week of the class, you'll need a local installation.
+If you run into any problems installing Python, you can use the provided server in the short term. However, come the second week of the class, you'll need a local installation.
 
-The `pip` package manager can be used to install Python libraries and packages once Python is installed.
-For example, in this class, we'll use using [Flask](https://flask.palletsprojects.com/en/2.3.x/), which [can be installed](https://flask.palletsprojects.com/en/2.3.x/installation/) (now or later) using:
+The `pip` package manager can be used to install Python libraries and packages once Python is installed. For example, in this class, we'll use using [Flask](https://flask.palletsprojects.com/en/2.3.x/), which [can be installed](https://flask.palletsprojects.com/en/2.3.x/installation/) (now or later) using:
 
 ```
 $ pip install Flask
