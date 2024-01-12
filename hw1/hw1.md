@@ -19,15 +19,33 @@ To receive full credit for this homework exercise you must:
 ### Table of Contents:
   - [Features and Pitfalls](#python-features-and-pitfalls): a high level overview of Python and some key differences with Java
   - [Learning Python Basics](#learning-python-basics): links to video and text tutorials to get started with the language
-  - [Assignment Part 1: Python Syntax and Data Structures](#assignment-python-syntax-and-data-structures): programming assignment to complete once you know Python basics
-  - [Assignment Part 2: Python Questions](#assignment-python-questions): ask us questions to take your understanding of Python deeper
+  - [Assignment: Python Syntax and Data Structures](#assignment-python-syntax-and-data-structures): programming assignment to complete once you know Python basics
   - [Optional Engagement Activity](#optional-engagement-activity-rock-papers-scissors): a chance to earn an engagement point by building a stupid game
 
 ---
 
 ## Installing Python
 
-In this class, we'll use using [Flask](https://flask.palletsprojects.com/en/2.3.x/), which [can be installed](https://flask.palletsprojects.com/en/2.3.x/installation/) (now or later) using:
+You can check if your system already has Python installed by typing `python3` on the command line.
+If you see
+
+```
+Python 3.10.12 (main, Nov 20 2023, 15:14:05) [GCC 11.4.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>>
+```
+
+Then it is installed!
+You can exit the prompt by typing `quit()` or Control-D.
+
+If it is *not* installed, you can install it (and integrate it with VSCode) using [these instructions](https://code.visualstudio.com/docs/python/python-tutorial).
+If you're using Ubuntu, I suggest installing using `sudo apt update; apt-get install python3`.
+
+If you run into any problems installing Python, you can use the provided server in the short term.
+However, come the second week of the class, you'll need a local installation.
+
+The `pip` package manager can be used to install Python libraries and packages once Python is installed.
+For example, in this class, we'll use using [Flask](https://flask.palletsprojects.com/en/2.3.x/), which [can be installed](https://flask.palletsprojects.com/en/2.3.x/installation/) (now or later) using:
 
 ```
 $ pip install Flask
@@ -164,35 +182,22 @@ For Google's thorough introduction to Python (minimal programming experience req
 ---
 
 ## Assignment: Python Syntax and Data Structures
-> This assignment must be solved **on your own** and will be submitted through Replit.
->   - Replit Project link: [https://replit.com/team/cs2541s22/HW1-Python-Practice](https://replit.com/team/cs2541s22/HW1-Python-Practice)
->   - Due: Tuesday January 18, 11:59PM
+> This assignment must be solved **on your own** and your last commit *before the deadline* will be treated as your submission.
+>   - Homework [link](https://classroom.github.com/a/i_UYDVPw)
 
-Complete this set of simple Python exercises on Replit to ensure you are familiar with Python syntax.
+Complete this set of simple Python exercises to ensure you are familiar with Python syntax.
 
 Instructions:
 
-<img src="hw1-tests.png" width="35%" style="float:right">
-1. Fill in the bodies for all of the functions in `main.py` following the instructions in the comments.
-2. You can add your own test code that calls the functions at the bottom of the file, or try hitting the Run button (which will load all of your functions into the python interpreter) and then test them by typing commands in the Console tab (e.g., myMax(2,3)).
-3. To verify your code is correct, use the Tests tab in the menu on the left hand side of the screen (a checkmark). Your code must pass all tests to receive full credit.
-
-When you are finished with all the functions, click the Submit button. You can modify and submit again if necessary, but if you attempt to submit after the deadline your work will be considered late.
-
----
-
-## Assignment: Python Questions
-
-While learning about Python you must have had some questions about the language. Reflect on what you are still unclear about and fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfstmPc2T8sVbj0mh2pGR7PN1fBWue6NUIkh4MRBNR0QfRMkQ/viewform?usp=sf_link) to specify what you would like to learn more about, or any valuable insights you want to share with your classmates. We will use these questions and comments to guide our future lecture on Python.
-
-Completing this form will be combined with the coding above to determine your overall assignment grade.
+- Follow the instructions in the `README.md`.
+- Your last commit before the deadline will be treated as your submission. Always *remember to `git push` your code*! Forgetting to do this will not be an acceptable reason for an extension.
 
 ---
 
 ## OPTIONAL Engagement Activity: Rock Papers Scissors
 > If you complete this extra activity, you will receive an engagement point for Week 2 of the class. This must be solved **on your own** and will be submitted through Replit.
->   - Replit Project link: [https://replit.com/team/cs2541s22/RockPaperScissors](https://replit.com/team/cs2541s22/RockPaperScissors)
->   - Due: Sunday January 23, 11:59PM
+>   - Project [link](https://classroom.github.com/a/4atD8Tz9)
+>   - Same deadline as the homework above
 
 <img src="/hw1/Rock-paper-scissors.png" style="float:right; width:33%" title="RPS image from Wikimedia Commons"> [Rock, Paper, Scissors](https://en.wikipedia.org/wiki/Rock_paper_scissors) is a simultaneous, hand-based game, where only the luckiest (or wiliest) contestant will survive. Your challenge is to implement a much less physical (and much more predictable) text-based version of the game implemented in Python.
 

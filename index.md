@@ -13,7 +13,8 @@ layout: home
 <div class="footer-col two-col-2">
     <ul class="contact-list">
         <li><b>Other Instructional Staff:</b></li>
-        <li>...</li>
+        <li><b>Kyle Vitale, Kate Halushka,</b></li>
+		<li><b>Dania Abdalla, Adham Popal</b></li>
     </ul>
     </div>
 </div></div>
@@ -25,8 +26,8 @@ This course will expose students to design and implementation of Database system
 ## Announcements ##
 
 - You must complete [this short welcome survey](https://forms.gle/Z4VeorhwL6szseY66)
- - Use our Discord Server! (Join [here](...))
- - Check the [syllabus](/syllabus) for a sense of what is to come!
+- Use our Discord Server! (Join [here](https://discord.gg/WvmDjm7v))
+- Check the [syllabus](/syllabus) for a sense of what is to come!
 
 ## Schedule
 
@@ -38,22 +39,24 @@ This course will expose students to design and implementation of Database system
 
 | Week | Content |
 |:---  |:--- |
-| Week 1 | *Monday 1/15/24:* MLK Day - No Class <br>*Wednesday 1/17/24:* [Intro to DB and Web Lecture and Lab Slides](slides/22-1-Course-Overview.pdf)<br> - [Lab 1: HTML+CSS](lab1/)<br> - [HW1](/hw1/): Due Tues 1/26 |
+| Week 1 | *Monday 1/15/24:* MLK Day - No Class <br>*Wednesday 1/17/24:* [Intro to DB and Web Lecture and Lab Slides](slides/22-1-Course-Overview.pdf)<br> - [Lab 1: HTML+CSS](lab1/)<br> - [HW1](/hw1/): Due Fri 1/26 |
 | Week 2 | *Monday 1/22/24:* [DBMS and Course Outline Slides](slides/22-1-Course-Overview-part2.pdf) <br>*Wednesday 1/24/24:* [Relational Model Lecture and Lab Slides](slides/22-2-Relational-Model.pdf)<br> - [Lab 2: Python + Flask](lab2/)<br> - [HW2](/hw2/): Due Fri 2/2 |
-| Week 3 | *Monday 1/29/24:* [SQL DDL Slides](slides/22-3-sql.pdf) <br>*Wednesday 1/31/24:* [SQL DML Lecture and Lab Slides](slides/22-3b-sql.pdf)<br> - [Lab 3: SQLite](lab3/)<br> - [HW3](https://replit.com/team/cs2541s22/HW3-SQL-Selection) - Due Tues 2/1 11:59PM |
-| Week 4 | *Monday 2/5/24:* [ER Model Slides](slides/22-4-ER-model.pdf) <br>*Wednesday 2/7/24:* [Normalization Lecture and Lab Slides](slides/22-4b-normalization.pdf)<br> - [Lab 4: DB Design](slides/22-lab4.pdf) Slides - submit [Replit](https://replit.com/team/cs2541s22/Lab4-Simple-Tables) Due Sat 2/5 11:59PM |
-| Week 5 | *Monday 2/12/24:* [Functional Dependencies Slides](slides/22-5-func-dependencies.pdf) <br>*Wednesday 2/14/24:* [Decomposition and BCNF Lecture](slides/22-5-func-dependencies.pdf)<br> - [Lab 5: Flask + SQL Slides](slides/22-lab5.pdf) - submit [Lab 5 Replit](https://replit.com/team/cs2541s22/Lab5-Live-Exercise) by Sun 2/13<br> - [HW 5: Normalization](https://replit.com/team/cs2541s22/HW5-Normalization)  due Tues 2/15 - [Normalization Reference Sheet](/slides/sheet-normal-forms.pdf) |
+| Week 3 | *Monday 1/29/24:* [SQL DDL Slides](slides/22-3-sql.pdf) <br>*Wednesday 1/31/24:* [SQL DML Lecture and Lab Slides](slides/22-3b-sql.pdf)<br> - [Lab 3: SQLite](lab3/)<br> - [HW3](https://replit.com/team/cs2541s22/HW3-SQL-Selection) - Due Tues 2/6 |
+| Week 4 | *Monday 2/5/24:* [ER Model Slides](slides/22-4-ER-model.pdf) <br>*Wednesday 2/7/24:* [Normalization Lecture and Lab Slides](slides/22-4b-normalization.pdf)<br> - [Lab 4: DB Design](slides/22-lab4.pdf) Slides - submit [Replit](https://replit.com/team/cs2541s22/Lab4-Simple-Tables) Due Sat 2/5 |
+| Week 5 | *Monday 2/12/24:* [Functional Dependencies Slides](slides/22-5-func-dependencies.pdf) <br>*Wednesday 2/14/24:* [Decomposition and BCNF Lecture](slides/22-5-func-dependencies.pdf)<br> - [Lab 5: Flask + SQL Slides](slides/22-lab5.pdf) - submit [Lab 5 Replit](https://replit.com/team/cs2541s22/Lab5-Live-Exercise) by Sun 2/18<br> - [HW 5: Normalization](https://replit.com/team/cs2541s22/HW5-Normalization)  due Tues 2/21 - [Normalization Reference Sheet](/slides/sheet-normal-forms.pdf) |
 | Week 6 | *Monday 2/19/24:* President's Day - No Class <br>*Wednesday 2/21/24:* [Web Apps Lecture slides](slides/22-6-shopping-cart.pdf)<br> - [Lab 6: Sessions](slides/22-lab6.pdf) - submit [Lab 6 replit](https://replit.com/team/cs2541s22/Lab6-Login-Page) by Friday 2/25 <br> - [Shopping Cart Mini Project](/cart) due 3/8 |
 | Week 7 | *Monday 2/26/24:* Exam Review <br>*Wednesday 2/28/24:* [EXAM Lecture and Lab Slides](slides/22-6-exam-review.pdf)<br> - Lab: EXAM |
 | Week 8 | *Monday 3/4/24:* [Cloud Scale Apps Slides](slides/22-8-cloud-data.pdf) <br>*Wednesday 3/6/24:* [Project Overview Slides](slides/22-8b-project.pdf)<br> - [Lab 7: Sessions](slides/22-lab7.pdf) - Gwordle Lab: [Frontend](https://replit.com/team/cs2541s22/gwordle-front), [Backend](https://replit.com/team/cs2541s22/gwordle-back), [Integrated](https://replit.com/team/cs2541s22/gwordle-integrated) Replits |
 | Week 9 | *Monday 3/11/24:* Spring Break <br>*Wednesday 3/13/24:* Spring Break<br> -  |
-| Week 10 | *Monday 3/18/24:* [Agile Development Slides](slides/22-9a-agile.pdf) <br>*Wednesday 3/20/24:* Team Work<br> - [Lab 8: Gitting Started](slides/22-lab8.pdf) - [Phase 1 Git Rep](https://classroom.github.com/a/Zu4anc6u) - Create a board on [Trello](https://trello.com) |
+| Week 10 | *Monday 3/18/24:* [Agile Development Slides](slides/22-9a-agile.pdf) <br>*Wednesday 3/20/24:* Team Work<br> - [Lab 8: Gitting Started](slides/22-lab8.pdf) - [Phase 1 Git Rep](https://classroom.github.com/a/Zu4anc6u) <br>- Create a board on [Trello](https://trello.com) |
 | Week 11 | *Monday 3/25/24:* [DB Internals Slides](slides/22-11a-dbms-internals.pdf) <br>*Wednesday 3/27/24:* Lab: Sqlite to MySQL<br> - Mentor Meeting |
 | Week 12 | *Monday 4/1/24:* [RDBMS Challenges Slides](slides/22-12-rdbms-challenges.pdf) <br>*Wednesday 4/3/24:* Lab<br> - Mentor Meeting |
 | Week 13 | *Monday 4/8/24:* [NoSQL Slides](slides/22-12-rdbms-challenges.pdf) <br>*Wednesday 4/10/24:* Phase 1 Demos<br> - due in class |
-| Week 14 | *Monday 4/15/24:* [Column Stores and Vector DBs](...) <br>*Wednesday 4/17/24:* Start Phase 2<br> - Mentor Meeting |
+| Week 14 | *Monday 4/15/24:* Guest Lecture - Michael Trotter on Data Streaming <br>*Wednesday 4/17/24:* Start Phase 2<br> - Mentor Meeting |
 | Week 15 | *Monday 4/22/24:* [Indexes / Optimization Slides](slides/22-15-indexes.pdf) <br>*Wednesday 4/24/24:* [Security Lecture and Lab Slides](slides/22-15-security.pdf)<br> - Mentor Meeting |
 | Week 16 | *Monday 4/29/24:* [The End Slides](slides/22-16-the-end.pdf) <br>*Wednesday 5/1/24:* Mentor Meeting<br> - (Designated Monday) |
+
+All deadlines are at 11:59pm unless otherwise noted.
 
 </div>
 

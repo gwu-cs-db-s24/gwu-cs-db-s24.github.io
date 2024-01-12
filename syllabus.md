@@ -6,7 +6,7 @@ permalink: /syllabus/
 
 **Instructor:** [Prof. Gabe Parmer](https://faculty.cs.gwu.edu/gparmer/)
 
-**Other Instructional Staff:** ...
+**Other Instructional Staff:** Kyle Vitale, Kate Halushka, Dania Abdalla, Adham Popal
 
 **Time/Place:**
   * **Class meets Mondays 12:45-2pm, Wednesdays 12:45-3:25PM in SEH 1400**
