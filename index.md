@@ -39,7 +39,7 @@ This course will expose students to design and implementation of Database system
 
 | Week | Content |
 |:---  |:--- |
-| Week 1 | *Monday 1/15/24:* MLK Day - No Class <br>*Wednesday 1/17/24:* [Intro to DB and Web Lecture and Lab Slides](slides/22-1-Course-Overview.pdf)<br> - [Lab 1: HTML+CSS](lab1/)<br> - [HW1](/hw1/): Due Fri 1/26 |
+| Week 1 | *Monday 1/15/24:* MLK Day - No Class <br>*Wednesday 1/17/24:* [Intro to DB and Web Lecture and Lab Slides](slides/24-1-Course-Overview.pdf)<br> - [Lab 1: HTML+CSS](lab1/)<br> - [HW1](/hw1/): Due Fri 1/26 |
 | Week 2 | *Monday 1/22/24:* [DBMS and Course Outline Slides](slides/22-1-Course-Overview-part2.pdf) <br>*Wednesday 1/24/24:* [Relational Model Lecture and Lab Slides](slides/22-2-Relational-Model.pdf)<br> - [Lab 2: Python + Flask](lab2/)<br> - [HW2](/hw2/): Due Fri 2/2 |
 | Week 3 | *Monday 1/29/24:* [SQL DDL Slides](slides/22-3-sql.pdf) <br>*Wednesday 1/31/24:* [SQL DML Lecture and Lab Slides](slides/22-3b-sql.pdf)<br> - [Lab 3: SQLite](lab3/)<br> - [HW3](https://replit.com/team/cs2541s22/HW3-SQL-Selection) - Due Tues 2/6 |
 | Week 4 | *Monday 2/5/24:* [ER Model Slides](slides/22-4-ER-model.pdf) <br>*Wednesday 2/7/24:* [Normalization Lecture and Lab Slides](slides/22-4b-normalization.pdf)<br> - [Lab 4: DB Design](slides/22-lab4.pdf) Slides - submit [Replit](https://replit.com/team/cs2541s22/Lab4-Simple-Tables) Due Sat 2/5 |
@@ -54,7 +54,7 @@ This course will expose students to design and implementation of Database system
 | Week 13 | *Monday 4/8/24:* [NoSQL Slides](slides/22-12-rdbms-challenges.pdf) <br>*Wednesday 4/10/24:* Phase 1 Demos<br> - due in class |
 | Week 14 | *Monday 4/15/24:* Guest Lecture - Michael Trotter on Data Streaming <br>*Wednesday 4/17/24:* Start Phase 2<br> - Mentor Meeting |
 | Week 15 | *Monday 4/22/24:* [Indexes / Optimization Slides](slides/22-15-indexes.pdf) <br>*Wednesday 4/24/24:* [Security Lecture and Lab Slides](slides/22-15-security.pdf)<br> - Mentor Meeting |
-| Week 16 | *Monday 4/29/24:* [The End Slides](slides/22-16-the-end.pdf) <br>*Wednesday 5/1/24:* Mentor Meeting<br> - (Designated Monday) |
+| Week 16 | *Monday 4/29/24:* [The End Slides](slides/22-16-the-end.pdf) <br>*Wednesday 5/1/24:* Mentor Meeting<br> -  |
 
 All deadlines are at 11:59pm unless otherwise noted.
 
