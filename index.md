@@ -13,8 +13,9 @@ layout: home
 <div class="footer-col two-col-2">
     <ul class="contact-list">
         <li><b>Other Instructional Staff:</b></li>
-        <li><b>Kyle Vitale, Kate Halushka,</b></li>
-		<li><b>Dania Abdalla, Adham Popal</b></li>
+        <li><b>TAs: Kyle Vitale, Kate Halushka,</b></li>
+		<li><b>Dania Abdalla, Sameen Ahmad</b></li>
+		<li><b>LAs: Adham Popal, Matias Liu Schmid</b></li>
     </ul>
     </div>
 </div></div>
