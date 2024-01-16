@@ -30,13 +30,13 @@ To solve the lab, you must fully follow the Instructions to make a Hello World w
   - not graded, due today for participation point
 
 [Lab1 Practice Student Roster](https://classroom.github.com/a/0agXGezp): try to make a page with a list of student names
-  - Do this assignment in teams of two. Your github team name should be your two github login names, separated by a `-`, for example `twood02-gparmer` if Professor Wood was in a team with Gabe.
+  - not graded, do this assignment in teams of two to four.
 
 [Lab1 Practice Lots of Tags](https://classroom.github.com/a/kzc68j1O): walk through of most common HTML tags and CSS
   - not graded, follow along as we discuss
 
 [Lab1 Student Bios](https://classroom.github.com/a/YQXrn2ox): work in a small group to make a website with CSS styling
-  - **Teams of two**: DUE Tuesday 1/23 at 11:59PM (usually will be a shorter deadline). Recall your team name should be your github login names, separated by a `-` (see above).
+  - **Teams of up to four**: Add your team [here](https://forms.gle/x5b2kdouL5Fftvav6).
 
 <!-- # Lab 1 Teams
 
