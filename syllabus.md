@@ -6,7 +6,7 @@ permalink: /syllabus/
 
 **Instructor:** [Prof. Gabe Parmer](https://faculty.cs.gwu.edu/gparmer/)
 
-**Other Instructional Staff:** Kyle Vitale, Kate Halushka, Dania Abdalla, Adham Popal
+**Other Instructional Staff:** Kyle Vitale, Kate Halushka, Dania Abdalla, Sameen Ahmad, Adham Popal, Matias Liu Schmid
 
 **Time/Place:**
   * **Class meets Mondays 12:45-2pm, Wednesdays 12:45-3:25PM in SEH 1400**
@@ -71,8 +71,8 @@ There will also be many opportunities to earn extra engagement points -- subscri
 ### Late Policy
 For deadlines related to labs or homeworks, students are expected to submit work on time, but we will allow extensions in certain conditions. We set deadlines in this course to help you stay on track and set you up to be successful in your learning.  However, we are all human and we have real lives with extenuating circumstances that can make meeting deadlines 100% of the time challenging.  In your work life, you may sometimes have to communicate to your boss that you can't meet a deadline for a reason.  In this class, the professors play the role of that boss.  Communication and reflection on reasons why you need a deadline extension are key.
 
-  - To request a deadline extension for a homework or lab assignment you must [fill out this form](https://forms.gle/QcyHdi4MKMNnNHQA9) reflecting on why you need an extension and the impact it will have on the grading team. You also must *send a Discord message to Prof. Parmer* with your response.
-  - Your request should be submitted before the deadline if possible, and no later than 24 hours after the deadline. Typically, a 48 hour extension will be granted.
+  - To request a deadline extension for a homework or lab assignment you must [fill out this form](https://forms.gle/ncFVW1weW6tUo5Sy5) reflecting on why you need an extension and the impact it will have on the grading team. You also must *send a Discord message to Gabe* with your response.
+  - Your request should be submitted before the deadline. Typically, a 48 hour extension will be granted.
   - Work submitted more than 48 hours late, or that did not receive an extension approval will receive a 0.
 
 For deadlines related to the team project, **no late work will be accepted**. This is because the timelines for the project are longer, and a team has built-in "redundancy" to overcome life's minor troubles, and we expect that as a team you will find ways to overcome any timeliness challenges.
