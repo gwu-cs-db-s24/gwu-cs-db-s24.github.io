@@ -81,6 +81,18 @@ For deadlines related to the team project, **no late work will be accepted**. Th
 The instructors understand that students may need to be absent from class either due to illness or other personal situations.
 If students anticipate missing, or have to miss one or more classes such as due to illness, they should alert the instructor as soon as possible. In this case deadlines may be extended for students and participation requirements will be relaxed.
 
+### Academic Integrity
+
+You must do your own work in this class. You can discuss class work with peers, but you cannot seek concrete help on code with peers outside of your group. You can seek help with the instructors, but seeking help with peers outside of your group on code or specific homework/project outputs is an academic honesty violation. Examples of academic integrity/honesty violations:
+
+- Looking at a peer's code who is not in your group.
+- Allowing peers outside of your group to look at your code.
+- Using generative AI to produce code for the class.
+- Using code from the internet that you found outside of the resources allowed by a lab/homework/project.
+- Looking at, or using code from sources outside of the class (again, beyond the allowed resources).
+
+If you have any questions about what constitutes an academic honesty violation, please talk to the class' Professor.
+
 ---
 
 ## University policies
