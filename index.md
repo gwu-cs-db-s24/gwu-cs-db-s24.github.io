@@ -6,16 +6,19 @@ layout: home
 <div class="footer-col two-col-1">
     <ul class="contact-list">
         <li><a href="https://faculty.cs.gwu.edu/gparmer"><b>Prof. Gabe Parmer</b></a></li>
-        <li>Office Hours: TBD</li>
         <li>Class: Mondays 12:45-2pm, Wednesdays 12:45-3:25PM</li>
+        <li>Office Hours: M11-12, Tu12:30-1:30</li>
     </ul>
 </div>
 <div class="footer-col two-col-2">
     <ul class="contact-list">
-        <li><b>Other Instructional Staff:</b></li>
-        <li><b>TAs: Kyle Vitale, Kate Halushka,</b></li>
-		<li><b>Dania Abdalla, Sameen Ahmad</b></li>
-		<li><b>LAs: Adham Popal, Matias Liu Schmid</b></li>
+        <li><b>Other Instructional Staff [Office Hours]:</b></li>
+        <li><b>TAs: Kyle Vitale [M2-3,W3:30-4:30]</b></li>
+		<li><b>Kate Halushka [M3:30-5:30],</b></li>
+		<li><b>Dania Abdalla [Tu2-4,W2-4]</b></li>
+		<li><b>Sameen Ahmad [Tu10-11, W1:15-2:00, Th1:30-4]</b></li>
+		<li><b>LAs: Adham Popal [Tu5:15-7:15, Th5:15-6:15]</b></li>
+		<li><b>Matias Liu Schmid [Tu4-5, F1-3]</b></li>
     </ul>
     </div>
 </div></div>
