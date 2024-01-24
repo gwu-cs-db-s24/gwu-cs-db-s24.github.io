@@ -10,7 +10,7 @@ permalink: /lab2/
 > 
 > **[Live Share](/lab2/liveshare.pdf)**
 >
-> **[Lab 2 Activities Github](https://classroom.github.com/a/UC21vHTu)**
+> **[Lab 2 Activities Github](https://classroom.github.com/a/GhvBcwRd)**
 
 
 # Lab 2 Activities
