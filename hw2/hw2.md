@@ -13,7 +13,7 @@ For this assignment you must build a student roster application that shows a lis
 
 **This is an INDIVIDUAL assignment.** You may reuse some of the code from your Lab 2, but you may not work with those students (or any others) to complete the assignment.
 
-**Project URL:** [HW2 Student Roster]()
+**Project URL:** [HW2 Student Roster](https://classroom.github.com/a/H8umXbXT)
 
 **Hint:** The [Lab 2 slides](/lab2) have a lot of useful information on using Flask templates! You should be using template syntax for `if` statements, `for` loops, and access to dictionary values!
 </blockquote>
