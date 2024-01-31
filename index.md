@@ -15,7 +15,7 @@ layout: home
         <li><b>Other Instructional Staff [Office Hours]:</b></li>
         <li><b>TAs: Kyle Vitale [M2-3,W3:30-4:30]</b></li>
 		<li><b>Kate Halushka [M4-5, W4:30-5:30],</b></li>
-		<li><b>Dania Abdalla [Tu2-4,W2-4]</b></li>
+		<li><b>Dania Abdalla [Tu2-4,Th2-4]</b></li>
 		<li><b>Sameen Ahmad [Th 1:15-2:00, F 1:30-3:30]</b></li>
 		<li><b>LAs: Adham Popal [Tu5:15-7:15, Th5:15-6:15]</b></li>
 		<li><b>Matias Liu Schmid [Tu4-5, F1-3]</b></li>
