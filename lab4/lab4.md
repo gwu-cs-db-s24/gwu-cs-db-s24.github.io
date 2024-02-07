@@ -6,7 +6,7 @@ permalink: /lab4/
 
 > This lab will teach you the basics of DB Design.
 >
-> **[Lab Slides](lab4/Lab4_Final.pdf)
+> **[Lab Slides](/lab4/Lab4_Final.pdf)
 ** <br>
 
 
