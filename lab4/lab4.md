@@ -6,7 +6,7 @@ permalink: /lab4/
 
 > This lab will teach you the basics of DB Design.
 >
-> **[Lab Slides](https://github.com/gwu-cs-db-s24/gwu-cs-db-s24.github.io/files/14106736/Lab3b-SQL-Select.pptx)
+> **[Lab Slides](lab4/Lab4_Final.pdf)
 ** <br>
 
 
