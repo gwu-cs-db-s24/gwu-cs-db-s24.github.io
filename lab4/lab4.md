@@ -12,3 +12,4 @@ permalink: /lab4/
 
 # Lab 4 Activities
 [Lab4 Practice: Simple Tables](https://classroom.github.com/a/dV40qc54): Database Design Practice
+ - Not Graded, complete the GitHub as we progress through the slides
