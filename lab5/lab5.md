@@ -6,7 +6,7 @@ permalink: /lab5/
 
 > Students will become familiar with using sqlite and flask to create more complex flask templates. Students will also learn how to create forms that can pass data to and from flask, eventually integrating with the sqlite database.
 >
-> **[Lab Slides](/lab5/Lab5_ Flask_and_SQL.pdf)
+> **[Lab Slides](/lab5/Lab5_Flask_and_SQL.pdf)
 ** <br>
 
 
