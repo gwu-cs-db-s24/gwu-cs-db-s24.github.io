@@ -11,7 +11,7 @@ permalink: /lab5/
 
 
 # Lab 5 Activities
-[Lab5: Flask and SQL](https://classroom.github.com/a/vR9EVnsO): Using SQL and flask to create more complez templates
+[Lab5: Flask and SQL](https://classroom.github.com/a/vR9EVnsO): Using SQL and flask to create more complex templates
  - Activity 1/2: done in your table/group, DUE
 
 [HW5: Normalization](https://classroom.github.com/a/QEAKEcny): Homework on DB normalization
