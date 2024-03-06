@@ -6,7 +6,7 @@ permalink: /lab7/
 
 > Students will get more experience with session variables, and work on a wordle application
 >
-> **[Lab Slides](/lab7/)
+> **[Lab Slides](/lab7/Lab7_Working_with_Session_Data.pdf)
 ** <br>
 
 
