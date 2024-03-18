@@ -47,21 +47,20 @@ All deadlines for the class are found below. Deadlines might not be completely a
 |:---  |:--- |
 | Week 1 | *Monday 1/15/24:* MLK Day - No Class <br>*Wednesday 1/17/24:* [Intro to DB and Web Lecture and Lab Slides](slides/24-1-Course-Overview.pdf)<br> - [Lab 1: HTML+CSS](lab1/)<br> - [Student Bios from lab](/lab1/): Due Fri 1/19<br> - [HW1](/hw1/): Due Fri 1/26 |
 | Week 2 | *Monday 1/22/24:* [DBMS and Course Outline Slides](slides/24-1-Course-Overview-part2.pdf) <br>*Wednesday 1/24/24:* [Relational Model Lecture and Lab Slides](slides/24-2-Relational-Model.pdf)<br> - [Lab 2: Python + Flask](lab2/)<br> - [Advanced Routes and Templates from lab](/lab2/): Due Thurs 1/25 <br> - [HW2](/hw2/): Due Fri 2/2 |
-| Week 3 | *Monday 1/29/24:* [SQL DDL Slides](slides/24-3-sql.pdf) <br>*Wednesday 1/31/24:* [SQL DML Lecture and Lab Slides](https://github.com/gwu-cs-db-s24/gwu-cs-db-s24.github.io/files/14106714/Lab3b-SQL-Select.pptx)<br> - [Lab 3: SQLite](lab3/)<br> - [HW3](https://classroom.github.com/a/W_L9Y0eB) - Due Tues 2/6 |
-| Week 4 | *Monday 2/5/24:* [ER Model Slides](slides/24-4-ER-model.pdf) <br>*Wednesday 2/7/24:* [Normalization Lecture and Lab Slides](slides/24-4b-normalization.pdf)<br> - [Lab 4: DB Design](lab4/) |
-| Week 5 | *Monday 2/12/24:* [Functional Dependencies Slides](slides/24-5-func-dependencies.pdf) <br>*Wednesday 2/14/24:* [Decomposition and BCNF Lecture](slides/24-5-func-dependencies.pdf)<br> - [Lab 5: Flask + SQL Slides](lab5/) - submit Lab 5 Activities by Sun 2/18<br> - [HW 5: Normalization](https://classroom.github.com/a/QEAKEcny)  due Tues 2/20 - [Normalization Reference Sheet](/slides/sheet-normal-forms.pdf) |
-| Week 6 | *Monday 2/19/24:* President's Day - No Class <br>*Wednesday 2/21/24:* [Web Apps Lecture slides](slides/24-6-shopping-cart.pdf)<br> - [Lab 6: Sessions](lab6/) - submit [Lab 6 github](https://classroom.github.com/a/JF8-SfaR) by Friday 3/1 <br> - [Shopping Cart Mini Project](/cart) due 3/12 |
+| Week 3 | *Monday 1/29/24:* [SQL DDL Slides](slides/24-3-sql.pdf) <br>*Wednesday 1/31/24:* [SQL DML Lecture and Lab Slides](slides/24-3b-sql.pdf)<br> - [Lab 3: SQLite](lab3/)<br> - [HW3]() - Due Tues 2/6 |
+| Week 4 | *Monday 2/5/24:* [ER Model Slides](slides/24-4-ER-model.pdf) <br>*Wednesday 2/7/24:* [Normalization Lecture and Lab Slides](slides/24-4b-normalization.pdf)<br> - [Lab 4: DB Design](slides/24-lab4.pdf) Slides - submit [Replit]() Due Sat 2/5 |
+| Week 5 | *Monday 2/12/24:* [Functional Dependencies Slides](slides/24-5-func-dependencies.pdf) <br>*Wednesday 2/14/24:* [Decomposition and BCNF Lecture](slides/24-5-func-dependencies.pdf)<br> - [Lab 5: Flask + SQL Slides](slides/24-lab5.pdf) - submit [Lab 5 Replit]() by Sun 2/18<br> - [HW 5: Normalization]()  due Tues 2/21 - [Normalization Reference Sheet](/slides/sheet-normal-forms.pdf) |
+| Week 6 | *Monday 2/19/24:* President's Day - No Class <br>*Wednesday 2/21/24:* [Web Apps Lecture slides](slides/24-6-shopping-cart.pdf)<br> - [Lab 6: Sessions](slides/24-lab6.pdf) - submit [Lab 6 replit]() by Friday 2/25 <br> - [Shopping Cart Mini Project](/cart) due 3/8 |
 | Week 7 | *Monday 2/26/24:* Exam Review <br>*Wednesday 2/28/24:* [EXAM Lecture and Lab Slides](slides/24-6-exam-review.pdf)<br> - Lab: EXAM |
-| Week 8 | *Monday 3/4/24:* [Cloud Scale Apps Slides](slides/24-8-cloud-data.pdf) <br>*Wednesday 3/6/24:* [Project Overview Slides](slides/24-8b-project.pdf)<br> - [Lab 7: Sessions](lab7/) - Gwordle Lab Due Thursday 3/7 |
+| Week 8 | *Monday 3/4/24:* [Cloud Scale Apps Slides](slides/24-8-cloud-data.pdf) <br>*Wednesday 3/6/24:* [Project Overview Slides](slides/24-8b-project.pdf)<br> - [Lab 7: Sessions](slides/24-lab7.pdf) - Gwordle Lab: [Frontend](), [Backend](), [Integrated]() Replits |
 | Week 9 | *Monday 3/11/24:* Spring Break <br>*Wednesday 3/13/24:* Spring Break<br> -  |
-| Week 10 | *Monday 3/18/24:* [Agile Development Slides](slides/24-9a-agile.pdf) <br>*Wednesday 3/20/24:* Team Work<br> - [Lab 8: Gitting Started](slides/24-lab8.pdf) - [Phase 1 Git Repo]() <br>- Create a board on [Trello](https://trello.com) |
+| Week 10 | *Monday 3/18/24:* [Agile Development Slides](slides/24-9a-agile.pdf) <br>*Wednesday 3/20/24:* Team Work<br> - [Lab 8: Gitting Started](slides/24-lab8.pdf)- [Phase 1 Git Repo](https://classroom.github.com/a/NnGWX65y) <br>- Create a board on [Trello](https://trello.com) |
 | Week 11 | *Monday 3/25/24:* [DB Internals Slides](slides/24-11a-dbms-internals.pdf) <br>*Wednesday 3/27/24:* Lab: Sqlite to MySQL<br> - Mentor Meeting |
 | Week 12 | *Monday 4/1/24:* [RDBMS Challenges Slides](slides/24-12-rdbms-challenges.pdf) <br>*Wednesday 4/3/24:* Lab<br> - Mentor Meeting |
 | Week 13 | *Monday 4/8/24:* [NoSQL Slides](slides/24-12-rdbms-challenges.pdf) <br>*Wednesday 4/10/24:* Phase 1 Demos<br> - due in class |
 | Week 14 | *Monday 4/15/24:* Guest Lecture - Michael Trotter on Data Streaming <br>*Wednesday 4/17/24:* Start Phase 2<br> - Mentor Meeting |
 | Week 15 | *Monday 4/22/24:* [Indexes / Optimization Slides](slides/24-15-indexes.pdf) <br>*Wednesday 4/24/24:* [Security Lecture and Lab Slides](slides/24-15-security.pdf)<br> - Mentor Meeting |
 | Week 16 | *Monday 4/29/24:* [The End Slides](slides/24-16-the-end.pdf) <br>*Wednesday 5/1/24:* Mentor Meeting<br> -  |
-
 
 </div>
 
