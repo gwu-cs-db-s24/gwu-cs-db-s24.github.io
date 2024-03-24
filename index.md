@@ -44,7 +44,7 @@ This course will expose students to design and implementation of Database system
 All deadlines for the class are found below. Deadlines might not be completely accurate until the work is assigned. Lab work is due the next day (Thursday night) unless otherwise noted. All deadlines are at 11:59pm unless otherwise noted. For teamwork, remember to [fill out the form](https://forms.gle/x5b2kdouL5Fftvav6) to tell us your team name and members.
 
 | Week | Content |
-|:---  |:--- |
+|:---|:---|
 | Week 1 | *Monday 1/15/24:* MLK Day - No Class <br>*Wednesday 1/17/24:* [Intro to DB and Web Lecture and Lab Slides](slides/24-1-Course-Overview.pdf)<br> - [Lab 1: HTML+CSS](lab1/)<br> - [Student Bios from lab](/lab1/): Due Fri 1/19<br> - [HW1](/hw1/): Due Fri 1/26 |
 | Week 2 | *Monday 1/22/24:* [DBMS and Course Outline Slides](slides/24-1-Course-Overview-part2.pdf) <br>*Wednesday 1/24/24:* [Relational Model Lecture and Lab Slides](slides/24-2-Relational-Model.pdf)<br> - [Lab 2: Python + Flask](lab2/)<br> - [Advanced Routes and Templates from lab](/lab2/): Due Thurs 1/25 <br> - [HW2](/hw2/): Due Fri 2/2 |
 | Week 3 | *Monday 1/29/24:* [SQL DDL Slides](slides/24-3-sql.pdf) <br>*Wednesday 1/31/24:* [SQL DML Lecture and Lab Slides](slides/Lab3b-SQL-Select.pptx)<br> - [Lab 3: SQLite](lab3/)<br> - [HW3](https://classroom.github.com/a/W_L9Y0eB) - Due Tues 2/6 |
