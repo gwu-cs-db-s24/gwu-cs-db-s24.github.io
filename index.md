@@ -61,6 +61,7 @@ All deadlines for the class are found below. Deadlines might not be completely a
 | Week 14 | *Monday 4/15/24:* Guest Lecture - Michael Trotter on Data Streaming <br>*Wednesday 4/17/24:* Start Phase 2<br> - Mentor Meeting |
 | Week 15 | *Monday 4/22/24:* [Indexes / Optimization Slides](slides/24-15-indexes.pdf) <br>*Wednesday 4/24/24:* [Security Lecture and Lab Slides](slides/24-15-security.pdf)<br> - Mentor Meeting |
 | Week 16 | *Monday 4/29/24:* [The End Slides](slides/24-16-the-end.pdf) <br>*Wednesday 5/1/24:* Mentor Meeting<br> -  |
+
 </div>
 
 ## Topics ##
