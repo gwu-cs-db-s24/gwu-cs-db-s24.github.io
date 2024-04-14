@@ -6,18 +6,20 @@ permalink: /project/phase-2
 
 Please follow the instructions below carefully. Failure to follow these instructions may result in your project not being graded completely. **Your system must be populated with "starting state data" specified at the end of this document – this is a requirement for the project.** This is the same data as was used in Phase 1, but now you will need data from all components you are combining if you are an integration project.
 
-On the Phase 2 due date by the time of your demo you will need to submit (1) your source code on Github (2) a GitHub Issue to be referred to during the demo that provides the following information (which we will need to conduct our testing): 
+On the Phase 2 due date by the time of your demo you will need to submit (1) your source code on Github (2) a GitHub Issue to be referred to during the demo that provides the following information (which we will need to conduct our testing):
   - Specify the roles of the team members – i.e.,  specify who did what (which modules were implemented by whom etc). A longer version of this will be included in your report as described below.
-  - Provide us with the usernames and passwords for the different users in the system defined below (i.e., the Grad Sec –GS  role, faculty reviewer, CAC, sys admin, applicants).  
+  - Provide us with the usernames and passwords for the different users in the system defined below (i.e., the Grad Sec –GS  role, faculty reviewer, CAC, sys admin, applicants).
   - **YOU MAY NOT MAKE ANY EDITS TO YOUR CODE AFTER YOUR DEMO STARTS!**
 
 ## Schedule and Evaluation of Demos
-The demos will be scheduled on Monday or Friday. Demos on Monday will receive a five point bonus for submitting early.  
+
+The demos will be scheduled in class in lab.
+
   <!-- - Each team will be assigned a time slot (and an evaluator)– your team must be ready with your main webpage open and running. You should join the class Zoom and enter your group's breakout room 10 minutes before your start time. IF the previous team demo is running significantly beyond its scheduled time, we will notify you on slack and/or email. -->
-  - ALL team members have to be present for the demo (either in person or virtually) -- questions will be asked of all team members. Failure to attend the demo without prior approval will result in a grade of zero for your Phase 2.
-  - The project testing/demo will require you to go through the entire workflow of your system, and we will be testing it for correctness and completeness. We will take you through specific steps and you are required to follow our directions. 
+  - ALL team members have to be present for the demo -- questions will be asked of all team members. Failure to attend the demo without prior approval will result in a grade of zero for your Phase 2.
+  - The project testing/demo will require you to go through the entire workflow of your system, and we will be testing it for correctness and completeness. We will take you through specific steps and you are required to follow our directions.
   - Your system must work correctly, and must meet all the workflow requirements that were specified. So make sure you get the system working correctly and make sure you do a lot of error checking and testing.
-  - You will have a chance to demo any extra features you added. 
+  - You will have a chance to demo any extra features you added.
 
 
 ## Requirements on testing data and start state of database
@@ -33,7 +35,7 @@ Listed below is the state that you must get to after a Reset operation. You may 
   - Course schedule must be exactly what is specified in the project description.
   - Students:  There must be two *MS*  graduate students entered into the system with the student numbers and other data as specified below:
     - Holiday, Billie with ID 88888888 and registered for CSCI 6461 and CSCI 6212. Provide us with their system login info (so we can test their registration transactions).
-    - Krall, Diana with ID 99999999 and no courses registered.  Provide us with their system login info (so we can test their registration transactions).  
+    - Krall, Diana with ID 99999999 and no courses registered.  Provide us with their system login info (so we can test their registration transactions).
   - Create the GS account (name of your choice), plus two faculty instructors: Narahari and Choi.  Provide their system login info in your Git Issue.  (You can have additional instructors.)
     - Narahari is instructor for CSCI 6461 and Choi is instructor for CSCI 6212
 

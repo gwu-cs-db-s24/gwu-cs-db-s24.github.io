@@ -55,10 +55,10 @@ All deadlines for the class are found below. Deadlines might not be completely a
 | Week 8 | *Monday 3/4/24:* [Cloud Scale Apps Slides](slides/24-8-cloud-data.pdf) <br>*Wednesday 3/6/24:* [Project Overview Slides](slides/24-8b-project.pdf)<br> - [Lab 7: Sessions](lab7/) - Gwordle Lab Due Thursday 3/7 |
 | Week 9 | *Monday 3/11/24:* Spring Break <br>*Wednesday 3/13/24:* Spring Break<br> -  |
 | Week 10 | *Monday 3/18/24:* [Agile Development Slides](slides/24-9a-agile.pdf) <br>*Wednesday 3/20/24:* Team Work<br> - [Lab 8: Gitting Started](slides/24-lab8.pdf)- [Phase 1 Git Repo](https://classroom.github.com/a/NnGWX65y) <br>- Create a board on [Trello](https://trello.com) |
-| Week 11 | *Monday 3/25/24:* [DB Internals Slides](slides/24-11a-dbms-internals.pdf) <br>*Wednesday 3/27/24:* Lab: Sqlite to MySQL<br> - Mentor Meeting |
+| Week 11 | *Monday 3/25/24:* [DB Internals Slides](slides/24-11a-dbms-internals.pdf) <br>*Wednesday 3/27/24:* Lab: Sqlite to MySQL<br> - [Mentor Meeting](slides/Lab9_AWS_VS_Code_Setup.pdf) |
 | Week 12 | *Monday 4/1/24:* [RDBMS Challenges Slides](slides/24-12-rdbms-challenges.pdf) <br>*Wednesday 4/3/24:* Lab<br> - Mentor Meeting |
 | Week 13 | *Monday 4/8/24:* [NoSQL Slides](slides/24-12-rdbms-challenges.pdf) <br>*Wednesday 4/10/24:* Phase 1 Demos<br> - due in class |
-| Week 14 | *Monday 4/15/24:* Guest Lecture - Michael Trotter on Data Streaming <br>*Wednesday 4/17/24:* Start Phase 2<br> - Mentor Meeting |
+| Week 14 | *Monday 4/15/24:* AI and you <br>*Wednesday 4/17/24:* Phase 2 push<br> - Mentor Meeting |
 | Week 15 | *Monday 4/22/24:* [Indexes / Optimization Slides](slides/24-15-indexes.pdf) <br>*Wednesday 4/24/24:* [Security Lecture and Lab Slides](slides/24-15-security.pdf)<br> - Mentor Meeting |
 | Week 16 | *Monday 4/29/24:* [The End Slides](slides/24-16-the-end.pdf) <br>*Wednesday 5/1/24:* Mentor Meeting<br> -  |
 

@@ -12,14 +12,11 @@ Project Module Specifications:
  - [Application System](/project/APPS-2022.docx)
 
 
-## Phase 1 
+## Phase 1
 
 
 **Timeline**
- - March 9: Project / Teams assigned
- - March 23: Mentor Check In
- - March 30: Phase 1 initial demo
- - April 6: Phase 1 DUE in class
+ - April 10: Phase 1 DUE in class
  - April 11: Phase 1 Report due 11:59PM
 
 **Mentor Status Checks**
@@ -40,50 +37,49 @@ Project Module Specifications:
   - A list of assumptions made for your design
   - A list of missing functionality from your final implementation
   - A work breakdown describing the key responsibilities of each team member
- 
-Your report must be committed and pushed to your repository by 11:59PM on Monday April 11th. It should be in a file named `Readme.md` or `Readme.pdf` in the `main` branch. 
 
+## Phase 2
 
-## Phase 2 
+Phase 2 focuses on integrating your three projects together!
 
-You will be working on **one** of these two types of projects:
+- Combine the components implemented by your teammates in phase 1 (do not build any new components from scratch).
+- Check the spec for your component and implement any extra features specified there
+- Projects, as in Phase 1, must use RDS and work for multiple clients at the same time.
 
-Type 1 Builder:
- - Implement a simplified version of the REGS component
-   - You are not required to implement the Sys Admin or Grad Secretary roles described in the REGS spec. Instead of the Grad Secretary, you should allow Faculty users to change grades multiple times. 
-   - If the spec for your component talks about extra features to add in phase 2 (such as more reports or PhD students), you *do not* need to complete them.
-   - You are still expected to add something "extra" to your project - a new feature, a nicer UI, or some technical extra. However, this will be a smaller part of your grade compared to the Integration projects.
+Notes:
 
-Type 2 Integration:
- - Combine the components implemented by your teammates in phase 1 (do not build any new components from scratch)
- - Check the spec for your component and include any extra features specified there (such as more reports for REGS)
- - 2 person integration teams are not required to support PhD students, but otherwise should support the full specs of the components they are combining
+- We expect you to create a better looking and more usable website compared to phase 1
+- A portion of your grade will be based on any "extra features" you complete that go beyond the spec -- use your creativity!
 
-**Both Types:**
- - We expect you to create a better looking and more usable website compared to phase 1
- - A portion of your grade will be based on any "extra features" you complete that go beyond the spec
- - The most impressive projects will be added to this website's [Hall of Fame](/hall). Check [last year's](https://cs2541-21s.github.io/hall/) for some inspiration.
+The Phase 2 Deadline for everything other than the final report is:
+
+- **Code Deadline**: May 1st, **NOON**
 
 ### Phase 2 Demo
+
 Details of the [phase 2 demo are here](/project/phase-2).
 
 ### Phase 2 Project Report
-You must submit a short written report about your project containing the following sections:
-  - **DB Design:** An ER or SQL Table Diagram updated to reflect your final design and an explanation for what normal form you believe your tables meet
-  - **Visual Overview:** Include screenshots, an animated gif, or short video showing a feature from each component included in your project (eg APPs, REGs, ADV). It does not need to be an exhaustive video of your functionality, just enough to remind us of how it works/looks.
-  - **Design Justification:** For Integration projects this should focus on how you connected your components together. For Builder projects it should justify your key design decisions. (0.5 - 1 page)
-  - **Special Features**: ~2 sentences describing each extra feature you added beyond the spec
-  - **Work Breakdown**: List teammates and specify the aspects of the project they worked on
 
+You must submit a written report about your project containing the following sections:
+
+- **DB Design:** An ER or SQL Table Diagram updated to reflect your final design and an explanation for what normal form you believe your tables meet
+- **Visual Overview:** Include screenshots, an animated gif, or short video showing a feature from each component included in your project (eg APPs, REGs, ADV). It does not need to be an exhaustive video of your functionality, just enough to remind us of how it works/looks.
+- **Design Justification:** For Integration projects this should focus on how you connected your components together. For Builder projects it should justify your key design decisions. (0.5 - 1 page)
+- **Special Features**: ~2 sentences describing each extra feature you added beyond the spec
+- **Work Breakdown**: List teammates and specify the aspects of the project they worked on
 
 Your report should be submitted as a file named  `final-report.md` or `final-report.pdf` in your repository.
 
-Your report is due by 11:59pm Friday May 6th (earlier if possible!). If you submit your report *after* you do your demo, please create an issue and tag `@twood02` to notify us for grading.
+- **Report Deadline**: Your report is due by 11:59pm May 3rd (earlier if possible!).
 
 ### Phase 2 Grading
-Each team will need to schedule a grading appointment on May 2nd or May 6th. 
 
-During your appointment we will walk through a script to test your application similar to phase 1. We will also be asking you deeper questions about your project's design and implementation. After we test your basic functionality you will have a chance to show off any extra features you added.
+Each team will need to schedule a grading appointment on May 2nd or May 3rd.
+Contact the professor immediately if you anticipate an issue.
+
+During your appointment we will walk through a script to test your application similar to phase 1. We will also be asking you deeper questions about your project's design and implementation somewhat similar to Phase 1.
+After we test your basic functionality you will have a chance to show off any extra features you added.
 
 **Approximate Grading Rubric:** This may not be the final grading rubric, but it gives you an idea what to expect:
   - 30% - Evidence that you are making progress each week and contributing your share of the project (see below)
@@ -93,7 +89,6 @@ During your appointment we will walk through a script to test your application s
   - 5% - Extra features of your choice (judged based on difficulty and innovativeness). Truly amazing extra features may earn additional bonus points.
 
 Note that not all teammates are guaranteed to get the same grade. Your grade will be adjusted based on your contribution to the project as measured by git commits, mentor status checks, team member surveys, and your ability to answer questions about your project.
-
 
 ---
 ## AWS / Python / SQL Tips
