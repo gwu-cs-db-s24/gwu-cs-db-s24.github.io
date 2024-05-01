@@ -60,7 +60,7 @@ All deadlines for the class are found below. Deadlines might not be completely a
 | Week 13 | *Monday 4/8/24:* [NoSQL Slides](slides/24-12-rdbms-challenges.pdf) <br>*Wednesday 4/10/24:* Phase 1 Demos<br> - due in class |
 | Week 14 | *Monday 4/15/24:* AI and you <br>*Wednesday 4/17/24:* Phase 2 push<br> - Mentor Meeting |
 | Week 15 | *Monday 4/22/24:* Mentor Meeting <br>*Wednesday 4/24/24:* Focus Group<br> - Focus group |
-| Week 16 | *Monday 4/29/24:* [Performance / Indices Slides](slides/24-15-indexes.pdf) <br>*Wednesday 5/1/24:* [The end Lecture and Lab Slides](slides/24-16-the-end.pdf)<br> -  |
+| Week 16 | *Monday 4/29/24:* [Performance / Indices Slides](slides/24-15-indexes.pdf) <br>*Wednesday 5/1/24:* [Security Lecture and Lab Slides](slides/24-15-security.pdf)<br> -  |
 
 </div>
 
