@@ -48,7 +48,7 @@ Listed below is the state that you must get to after a Reset operation. You may 
     - Getz, Stan  with SSN 444-22-3333 and ID 44444444
   - Applicants:  There must be two applicants entered into the system with the student numbers and other data as specified below:
     - John Lennon, SSN 111-11-1111, (and univ ID 12312312) and application is complete but no reviews. Provide us with their system login info (so they can check on their status).
-    - Ringo Starr, SSN 222-11-1111 (and univ ID 66666666), application is incomplete. Provide us with their system login info (so they can check on their status).
+    - Ringo Starr, SSN 222-11-1111 (and univ ID 66666667), application is incomplete. Provide us with their system login info (so they can check on their status).
   - Users: Create GS, CAC, and at least one faculty reviewer Narahari. Provide their system login info in your Git Issue.  (Additional faculty reviewers should be Wood, Heller.)
 
 ### ADS Starting State
