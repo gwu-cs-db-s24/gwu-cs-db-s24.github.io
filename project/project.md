@@ -88,7 +88,7 @@ After we test your basic functionality you will have a chance to show off any ex
   - 15% - Overall usability / look and feel
   - 5% - Extra features of your choice (judged based on difficulty and innovativeness). Truly amazing extra features may earn additional bonus points.
 
-Note that not all teammates are guaranteed to get the same grade. Your grade will be adjusted based on your contribution to the project as measured by git commits, mentor status checks, team member surveys, and your ability to answer questions about your project.
+Note that not all teammates are guaranteed to get the same grade. Your grade will be adjusted based on your contribution to the project as measured by git commits, mentor status checks, team member surveys and discussions, team dynamics and ability of each member to work as part of the team, and your ability to answer questions about your project.
 
 ---
 ## AWS / Python / SQL Tips
